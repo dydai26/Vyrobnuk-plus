@@ -997,7 +997,7 @@ animation: 1s ease-in-out 2.4s 1 normal forwards slide-in-top;
   padding: 0;
   margin: 0;
   overflow: hidden;
-  background-image: url('./IMG/fon-blue.png');
+  background-image: url('./img/fon-blue.png');
   background-size: cover;
   background-position:center ;
   display: flex;
